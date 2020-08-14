@@ -6,12 +6,16 @@ body, html {
 
 @font-face{
     font-family: bromello;
-    src: url(bromello.woff);
+    src: url("../VietChick/bromello.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
 }
 
 @font-face{
     font-family: renzo;
-    src: url(renzo.woff);
+    src: url("../VietChick/renzo.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
 }
 
 
